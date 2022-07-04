@@ -3,19 +3,19 @@
 New to VueJS? Well, put your worries aside and check out this roadmap for Vuejs developers.
 
 ### Fundamentals
-1. Vue cli
+1. Vue CLI
 2. Single file component
-3. Binding text and html
+3. Binding text and HTML
 4. binding attributes
 5. conditional rendering
 6. kists and keys
 7. methods
-8.event handling
+8. event handling
 9. form handling
 10. computed property
 11. watchers
 
-### advance 
+### Advance 
 1. Components architecture
 2. Component Props
 3. Custom events
@@ -36,6 +36,7 @@ New to VueJS? Well, put your worries aside and check out this roadmap for Vuejs 
     - watch
     - Lifecycle hooks
     - Hooks / Composables
+
 ### Ecosystem 
 1. State management
 	- Routing
