@@ -14,6 +14,7 @@ New to VueJS? Well, put your worries aside and check out this roadmap for Vuejs 
 9. form handling
 10. computed property
 11. watchers
+
 ### advance 
 1. Components architecture
 2. Component Props
