@@ -3,9 +3,9 @@
 New to VueJS? Well, put your worries aside and check out this roadmap for Vuejs developers.
 
 ### Fundamentals
-1. Vue CLI
-2. Single file component
-3. Binding text and HTML
+1. [Vue CLI](https://dev.to/priteshbhoi/how-to-start-a-new-project-using-vuejs-335h)
+2. [Single file component](https://dev.to/priteshbhoi/vue-js-3-single-file-component-11gd)
+3. [Binding text and HTML](https://dev.to/priteshbhoi/vue-js-binding-text-and-html-2el0) 
 4. binding attributes
 5. conditional rendering
 6. kists and keys
